@@ -1,0 +1,53 @@
+body{
+    background: url(https://cdn.wallpapersafari.com/45/87/ql2YgM.jpg);
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.card{
+    background: #ffff;
+    box-shadow: 0px 1px 80px rgba(253, 0, 0, 0.682);
+    border-radius: 20px;
+}
+
+.mediacard{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7cOewQGwnMGLk1-5vOUuDXAUNOD3yTEWnw&usqp=CAU) center/cover;
+    height: 400px;
+    width: 100%;
+}
+
+.topcard{
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.buttomcard{
+    padding: 20px;
+}
+
+.actions{
+    background: rgb(255, 80, 80);
+    border-radius: 10px;
+    border: 6px;
+    color: rgba(0, 0, 0, 0.806);
+    margin-top: 25px;
+    box-shadow: 0px 1px 10px rgb(0, 0, 0);
+}
+h2{
+    font-size: 55px;
+    margin: 0 5px 17px;
+}
+
+span{
+    margin-bottom: 7px;
+    font-size: 12px;
+    line-height: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
